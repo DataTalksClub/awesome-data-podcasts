@@ -7,7 +7,7 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 - [DataTalks.Club](https://anchor.fm/datatalksclub)
 - [MLOps](https://anchor.fm/mlops)
 - [Chai Time Data Science](https://chaitimedatascience.com/)
-- [AI Game Challengers](https://www.buzzsprout.com/1064803)
+- [AI Game Changers](https://www.buzzsprout.com/1064803)
 - [The Artists of Data Science](https://theartistsofdatascience.fireside.fm/)
 - [Towards Data Science](https://towardsdatascience.com/podcast/home)
 - [TWIML AI](https://twimlai.com/)
