@@ -28,6 +28,9 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 - [Data Science at Home](https://datascienceathome.com/)
 - [ML Minutes](https://www.mlminutes.com/)
 - [Underrated ML](https://www.underratedml.com/)
+- [Machine Learning Street Talk](https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ)
+- [Gradient Dissent](https://www.youtube.com/watch?v=hVW1mwLtDcI&list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_&ab_channel=Weights%26Biases)
+- [Practical AI](https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp)
 
 ## Python
 
