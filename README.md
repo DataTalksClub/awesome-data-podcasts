@@ -31,6 +31,15 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 - [Machine Learning Street Talk](https://www.youtube.com/channel/UCMLtBahI5DMrt0NPvDSoIRQ)
 - [Gradient Dissent](https://www.youtube.com/watch?v=hVW1mwLtDcI&list=PLD80i8An1OEEb1jP0sjEyiLG8ULRXFob_&ab_channel=Weights%26Biases)
 - [Practical AI](https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp)
+- [Not So Standard Deviations](https://nssdeviations.com/)
+- [Machine Learning Guide](https://ocdevel.com/mlg)
+- [Learning Bayesian Statistics](https://www.learnbayesstats.com/)
+- [Casual Inference](https://casualinfer.libsyn.com/)
+- [Ken's Nearest Neighbors](https://www.buzzsprout.com/1430041)
+- [Data Science Imposters](https://datascienceimposters.com/)
+- [Banana Data](https://banana-data.buzzsprout.com/)
+- [Radical AI](https://www.radicalai.org/)
+- [Human-Centered AI Podcast](https://www.listennotes.com/podcasts/the-human-centered-ai-podcast-deus-2NPZbMzjpBE/)
 
 ## Python
 
