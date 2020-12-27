@@ -101,6 +101,23 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 - [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
 
 
+# Data Podcasts not in English
+
+## Podcasts in Spanish 
+
+- [Inteligencia Artificial - Pocho Costa](https://open.spotify.com/show/6Ej4jertUixuVlqG8gYYEX?si=JyU-JEnQSPii6pIau4dPRw)
+- [Software 2.0](https://open.spotify.com/show/6nUgq0q9wVP6hMekW0dUqm?si=uigQyGNbTOWLX1D3gUjHOw)
+- [Machine Learning en Español](https://open.spotify.com/show/0jWHGMfLhhzT2Zxjniunzq?si=zHbjbtXcRJylhQWS2XF4Ow)
+- [Lo que AI que oir](https://open.spotify.com/show/7jlvqZbovyt7Gd4WTEGfv4?si=xPxOfiscTjy-37_3dTpveQ)
+- [Pensamiento Digital](https://open.spotify.com/show/1eMsJQZ29z7N91A905uY9H?si=tLSfizHOSUi-OQG6ew1qlw)
+- [Tacos de datos](https://open.spotify.com/show/5oiSRDgi4G49LI6NRIYouk)
+- [Data Latam](http://www.datalatam.com/)
+
+## Podcasts in Dutch
+
+- [De Dataloog](https://www.dedataloog.nl/)
+
+
 # License
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
