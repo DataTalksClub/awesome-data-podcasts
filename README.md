@@ -3,7 +3,7 @@
 This list started from a discussion in DataTalks.Club. Want to talk about data? [Join our Slack community](https://datatalks.club/slack.html).
 
 - Thanks [/r/datascience](https://www.reddit.com/r/datascience/) for great podcast suggestions! ([thread](https://www.reddit.com/r/datascience/comments/kk55ww/data_science_podcasts/))
-
+- Thanks to Twitter users for podcasts suggestions ([thread](https://twitter.com/Al_Grigor/status/1342863361944543234))
 
 ## Data science
 
