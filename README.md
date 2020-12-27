@@ -2,6 +2,9 @@
 
 This list started from a discussion in DataTalks.Club. Want to talk about data? [Join our Slack community](https://datatalks.club/slack.html).
 
+- Thanks [/r/datascience](https://www.reddit.com/r/datascience/) for great podcast suggestions! ([thread](https://www.reddit.com/r/datascience/comments/kk55ww/data_science_podcasts/))
+
+
 ## Data science
 
 - [DataTalks.Club](https://anchor.fm/datatalksclub)
@@ -40,6 +43,9 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 - [Banana Data](https://banana-data.buzzsprout.com/)
 - [Radical AI](https://www.radicalai.org/)
 - [Human-Centered AI Podcast](https://www.listennotes.com/podcasts/the-human-centered-ai-podcast-deus-2NPZbMzjpBE/)
+- [The Data Exchange](https://thedataexchange.media/)
+- [More or Less: Behind the Stats](https://www.bbc.co.uk/programmes/p02nrss1/episodes/downloads)
+- [The Data Crunch](https://datacrunchcorp.com/podcast/)
 
 ## Python
 
@@ -83,12 +89,16 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 - [CommunityOps](https://www.listennotes.com/podcasts/communityops-anna-grigoryan-FAB8r0y3DHL/) — community building
 - [Freakonomics](https://freakonomics.com/) — econimics
 
-## Not active
+## Not active (discontinued)
 
 - [DataCamp Podcast](https://www.datacamp.com/community/podcast)
 - [Talking Machines](http://www.thetalkingmachines.com/)
 - [Linear Digressions](https://soundcloud.com/linear-digressions)
 - [O'Reilly Data Show Podcast](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/)
+- [Partially Derivative](http://partiallyderivative.com/)
+- [What's the Point](https://fivethirtyeight.com/tag/whats-the-point/)
+- [Learning Machines](https://www.learningmachines101.com/)
+- [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
 
 
 # License
