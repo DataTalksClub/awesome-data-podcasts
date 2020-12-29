@@ -46,6 +46,7 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 - [The Data Exchange](https://thedataexchange.media/)
 - [More or Less: Behind the Stats](https://www.bbc.co.uk/programmes/p02nrss1/episodes/downloads)
 - [The Data Crunch](https://datacrunchcorp.com/podcast/)
+- [The Ravit Show](https://youtube.com/channel/UC4yopSSlBfw2WAykLPTYH-w)
 
 ## Python
 
