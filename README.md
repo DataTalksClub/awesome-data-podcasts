@@ -62,6 +62,8 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 
 - [Data engineering podcast](https://www.dataengineeringpodcast.com/)
 - [Roaring Elephant](https://roaringelephant.org/) - big data, devops
+- [The Airflow Podcast](https://www.astronomer.io/podcast)
+- [Plumbers of Data Science](https://open.spotify.com/show/529Q58D0db7bI8p6NKaRjU?si=rj5T4SzhTtC0iTxY7hMzWA)
 
 
 ## Career in IT 
@@ -75,6 +77,7 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 
 - [Software Engineering Daily](https://softwareengineeringdaily.com/)
 - [Software Engineering Unlocked](https://www.software-engineering-unlocked.com/)
+- [Software Daily](https://www.softwaredaily.com/)
 
 
 ## Engineering, AI, Tech and others IT-related topics
@@ -117,6 +120,10 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 ## Podcasts in Dutch
 
 - [De Dataloog](https://www.dedataloog.nl/)
+
+## Podcasts in Bahasa Indonesia
+
+- [DataPods](https://open.spotify.com/show/356i7xRQBUFukuL25UKsf1?si=RmCb0ayHSOuXGUbcCJ427A)
 
 
 # License
