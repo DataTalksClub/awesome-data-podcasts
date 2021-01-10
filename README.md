@@ -125,7 +125,9 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 
 - [DataPods](https://open.spotify.com/show/356i7xRQBUFukuL25UKsf1?si=RmCb0ayHSOuXGUbcCJ427A)
 
+## Podcasts in Russian
 
+- [ParrotCast](https://parrotcast.link/)
 # License
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
