@@ -8,7 +8,6 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 ## Data science
 
 - [DataTalks.Club](https://anchor.fm/datatalksclub)
-- [Psyda Podcast With Minhaaj.](https://psyda.co/podcast)
 - [MLOps](https://anchor.fm/mlops)
 - [Chai Time Data Science](https://chaitimedatascience.com/)
 - [AI Game Changers](https://www.buzzsprout.com/1064803)
@@ -48,6 +47,8 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 - [More or Less: Behind the Stats](https://www.bbc.co.uk/programmes/p02nrss1/episodes/downloads)
 - [The Data Crunch](https://datacrunchcorp.com/podcast/)
 - [The Ravit Show](https://youtube.com/channel/UC4yopSSlBfw2WAykLPTYH-w)
+- [Psyda Podcast With Minhaaj](https://psyda.co/podcast)
+
 
 ## Python
 
@@ -129,6 +130,7 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 ## Podcasts in Russian
 
 - [ParrotCast](https://parrotcast.link/)
+
 # License
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
