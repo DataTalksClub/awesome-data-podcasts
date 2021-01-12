@@ -48,6 +48,7 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 - [The Data Crunch](https://datacrunchcorp.com/podcast/)
 - [The Ravit Show](https://youtube.com/channel/UC4yopSSlBfw2WAykLPTYH-w)
 - [Psyda Podcast With Minhaaj](https://psyda.co/podcast)
+- [NLP Highlights](https://allenai.org/podcasts)
 
 
 ## Python
