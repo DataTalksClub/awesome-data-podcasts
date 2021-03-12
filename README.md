@@ -124,6 +124,8 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 ## Podcasts in Turkish
 
 - [Miuul](https://open.spotify.com/show/4u515QQB1uKxurmTRDcgh5)
+- [Codefiction](https://codefiction.tech/)
+- [Alchemist Podcast](https://open.spotify.com/show/1s3hWl6tMQYtkdihHP3Alq)
 - [Verizekalılar](http://verizekalilar.com/)
 - [Veri Tezgahı](http://veritezgahi.com/)
 
