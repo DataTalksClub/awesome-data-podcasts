@@ -90,6 +90,7 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 - [Are You A Robot?](https://www.areyouarobot.co.uk/) — ethics in tech
 
 
+
 ## Others
 
 - [DarkNetDiaries](https://darknetdiaries.com/) — dark net
@@ -106,7 +107,7 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 - [What's the Point](https://fivethirtyeight.com/tag/whats-the-point/)
 - [Learning Machines](https://www.learningmachines101.com/)
 - [Becoming a Data Scientist](https://www.becomingadatascientist.com/category/podcast/)
-
+- [The AI Podcast](https://blogs.nvidia.com/ai-podcast/) - NVIDIA
 
 # Data Podcasts not in English
 
@@ -119,6 +120,14 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 - [Pensamiento Digital](https://open.spotify.com/show/1eMsJQZ29z7N91A905uY9H?si=tLSfizHOSUi-OQG6ew1qlw)
 - [Tacos de datos](https://open.spotify.com/show/5oiSRDgi4G49LI6NRIYouk)
 - [Data Latam](http://www.datalatam.com/)
+
+## Podcasts in Turkish
+
+- [Miuul](https://open.spotify.com/show/4u515QQB1uKxurmTRDcgh5)
+- [Codefiction](https://codefiction.tech/)
+- [Alchemist Podcast](https://open.spotify.com/show/1s3hWl6tMQYtkdihHP3Alq)
+- [Verizekalılar](http://verizekalilar.com/)
+- [Veri Tezgahı](http://veritezgahi.com/)
 
 ## Podcasts in Dutch
 
