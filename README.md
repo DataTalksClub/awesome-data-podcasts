@@ -125,11 +125,27 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 # Data Podcasts not in English
 
 
+## Podcasts in Turkish
+
+- [Miuul](https://open.spotify.com/show/4u515QQB1uKxurmTRDcgh5)
+- [Türkiye Yapay Zeka İnisiyatifi](https://open.spotify.com/show/27dB8lurdg8pckw6kRGNaC)
+- [Codefiction](https://codefiction.tech/)
+- [Alchemist Podcast](https://open.spotify.com/show/1s3hWl6tMQYtkdihHP3Alq)
+- [Verizekalılar](http://verizekalilar.com/)
+- [Veri Tezgahı](http://veritezgahi.com/)
+- [Ha geldi Ha Gelecek](https://cms.megaphone.fm/channel/hageldihagelecek)  - Technology
+- [CodCast](https://open.spotify.com/show/0lGW789KeaRbxLOr6n3tPk?si=t52I_Vc_QjivgATf7RBbsg&nd=1)   -Software Talks
+- [Girişimci Muhabbeti](https://www.girisimcimuhabbeti.com/)       -Entrepreneur Talks
+- [Sıfırdan Globale](https://open.spotify.com/show/0KrspleijwAwVpD3u4vYha)
+- [Üretim Bandı](https://www.uretimbandi.com/)
+
+
 ## Podcasts in German
 
 - [BI or DIE - Der Podcast von Reportingimpulse](https://www.reportingimpulse.com/bi-or-die)  
 - [My Data Is Better Than Yours!](https://www.jonas-rashedi.de/podcast/)  
 - [Beyond Pageviews - termfrequenz](https://www.termfrequenz.de/podcast/beyond-pageviews-podcast/)
+
 
 ## Podcasts in Spanish 
 
@@ -141,13 +157,6 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 - [Tacos de datos](https://open.spotify.com/show/5oiSRDgi4G49LI6NRIYouk)
 - [Data Latam](http://www.datalatam.com/)
 
-## Podcasts in Turkish
-
-- [Miuul](https://open.spotify.com/show/4u515QQB1uKxurmTRDcgh5)
-- [Codefiction](https://codefiction.tech/)
-- [Alchemist Podcast](https://open.spotify.com/show/1s3hWl6tMQYtkdihHP3Alq)
-- [Verizekalılar](http://verizekalilar.com/)
-- [Veri Tezgahı](http://veritezgahi.com/)
 
 ## Podcasts in Dutch
 
