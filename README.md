@@ -48,7 +48,19 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 - [The Data Crunch](https://datacrunchcorp.com/podcast/)
 - [The Ravit Show](https://youtube.com/channel/UC4yopSSlBfw2WAykLPTYH-w)
 - [Psyda Podcast With Minhaaj](https://psyda.co/podcast)
-- [NLP Highlights](https://allenai.org/podcasts)
+- [NLP Highlights](https://allenai.org/podcasts)  
+- [Making Data Simple](https://open.spotify.com/show/6i8sGQUN5PNzyExrQJtndx)  
+
+
+## Data Analysis
+
+- [Analytics on Fire](https://bibrainz.com/podcast/)  
+- [storytelling with data](https://www.storytellingwithdata.com/podcast)  
+- [How to Get an Analytics Job](https://open.spotify.com/show/38EDkxhJiAwDWo4TMGXyoK)  
+- [The PolicyViz Podcast](https://policyviz.com/podcast/)  
+- [Mastering Business Analysis](https://masteringbusinessanalysis.com/player/)  
+- [The Analytic Mind](https://enterprisedna.co/podcast/tag/the-analytic-mind-podcast/)  
+- [The Present Beyond Measure Show](https://leapica.com/podcast/)
 
 
 ## Python
@@ -58,7 +70,8 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 - [Teaching Python](https://www.teachingpython.fm/)
 - [Python Bytes](https://pythonbytes.fm/)
 - [`Podcast.__init__`](https://www.pythonpodcast.com/)
-- [Real Python](https://realpython.com/podcasts/rpp/)
+- [Real Python](https://realpython.com/podcasts/rpp/)  
+- [Test & Code: Python Testing](https://testandcode.com/)
 
 
 ## Data Enginering, Big Data, etc
@@ -111,6 +124,7 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 
 # Data Podcasts not in English
 
+
 ## Podcasts in Turkish
 
 - [Miuul](https://open.spotify.com/show/4u515QQB1uKxurmTRDcgh5)
@@ -124,6 +138,14 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 - [Girişimci Muhabbeti](https://www.girisimcimuhabbeti.com/)       -Entrepreneur Talks
 - [Sıfırdan Globale](https://open.spotify.com/show/0KrspleijwAwVpD3u4vYha)
 - [Üretim Bandı](https://www.uretimbandi.com/)
+
+
+## Podcasts in German
+
+- [BI or DIE - Der Podcast von Reportingimpulse](https://www.reportingimpulse.com/bi-or-die)  
+- [My Data Is Better Than Yours!](https://www.jonas-rashedi.de/podcast/)  
+- [Beyond Pageviews - termfrequenz](https://www.termfrequenz.de/podcast/beyond-pageviews-podcast/)
+
 
 ## Podcasts in Spanish 
 
