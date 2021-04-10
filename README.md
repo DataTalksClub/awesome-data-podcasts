@@ -50,7 +50,7 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 - [Psyda Podcast With Minhaaj](https://psyda.co/podcast)
 - [NLP Highlights](https://allenai.org/podcasts)  
 - [Making Data Simple](https://open.spotify.com/show/6i8sGQUN5PNzyExrQJtndx)  
-
+- [Deep in Data](https://open.spotify.com/show/3BswRZKxYM9KqjH3nShegE) - stories from the industry
 
 ## Data Analysis
 
