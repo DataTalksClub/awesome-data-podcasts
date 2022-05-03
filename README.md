@@ -51,6 +51,7 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 - [NLP Highlights](https://allenai.org/podcasts)  
 - [Making Data Simple](https://open.spotify.com/show/6i8sGQUN5PNzyExrQJtndx)  
 - [Deep in Data](https://open.spotify.com/show/3BswRZKxYM9KqjH3nShegE) - stories from the industry
+- [DataFramed](https://open.spotify.com/show/02yJXEJAJiQ0Vm2AO9Xj6X?si=6282f1aded994288)
 
 ## Data Analysis
 
@@ -72,6 +73,7 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 - [`Podcast.__init__`](https://www.pythonpodcast.com/)
 - [Real Python](https://realpython.com/podcasts/rpp/)  
 - [Test & Code: Python Testing](https://testandcode.com/)
+- [Django Riffs](https://open.spotify.com/show/1RtdveQIz5m5MqLKPWbhnD?si=046c213b24a544b6)
 
 
 ## Data Enginering, Big Data, etc
@@ -80,6 +82,7 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 - [Roaring Elephant](https://roaringelephant.org/) - big data, devops
 - [The Airflow Podcast](https://www.astronomer.io/podcast)
 - [Plumbers of Data Science](https://open.spotify.com/show/529Q58D0db7bI8p6NKaRjU?si=rj5T4SzhTtC0iTxY7hMzWA)
+- [The Data Stack Show](https://open.spotify.com/show/1De2RWFAjAsSDf9oKgxeHd?si=986289e771b845fc)
 
 
 ## Career in IT 
@@ -138,7 +141,7 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 - [Girişimci Muhabbeti](https://www.girisimcimuhabbeti.com/)       -Entrepreneur Talks
 - [Sıfırdan Globale](https://open.spotify.com/show/0KrspleijwAwVpD3u4vYha)
 - [Üretim Bandı](https://www.uretimbandi.com/)
-
+- [Turuncu Pasaport](https://open.spotify.com/show/1jMTzvRku3kqjCtO53YrnQ?si=b3ad2208912c4296)
 
 ## Podcasts in German
 
