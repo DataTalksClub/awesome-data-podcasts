@@ -112,6 +112,7 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 - [DarkNetDiaries](https://darknetdiaries.com/) — dark net
 - [CommunityOps](https://www.listennotes.com/podcasts/communityops-anna-grigoryan-FAB8r0y3DHL/) — community building
 - [Freakonomics](https://freakonomics.com/) — econimics
+- [Data Talk by Bright Data](https://datatalk.castos.com/) — web data collection
 
 ## Not active (discontinued)
 
