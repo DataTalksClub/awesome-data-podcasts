@@ -52,7 +52,7 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 - [Making Data Simple](https://open.spotify.com/show/6i8sGQUN5PNzyExrQJtndx)  
 - [Deep in Data](https://open.spotify.com/show/3BswRZKxYM9KqjH3nShegE) - stories from the industry
 - [DataFramed](https://open.spotify.com/show/02yJXEJAJiQ0Vm2AO9Xj6X?si=6282f1aded994288)
-- [MLOPs Weekly](https://open.spotify.com/episode/1NdLWwDj5WSAD0545EscWe) - MLOps but with an eye on data & featurization
+- [MLOPs Weekly](https://open.spotify.com/show/0RZiV4zf2GKu1rp1rtNPRZ) - MLOps but with an eye on data & featurization
 
 ## Data Analysis
 
