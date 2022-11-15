@@ -79,10 +79,10 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 
 ## Data Enginering, Big Data, etc
 
-- [Weaviate vector search podcast](https://weaviate.io/podcast.html)
 - [Data engineering podcast](https://www.dataengineeringpodcast.com/)
 - [Roaring Elephant](https://roaringelephant.org/) - big data, devops
 - [The Airflow Podcast](https://www.astronomer.io/podcast)
+- [Weaviate vector search podcast](https://weaviate.io/podcast.html)
 - [Plumbers of Data Science](https://open.spotify.com/show/529Q58D0db7bI8p6NKaRjU?si=rj5T4SzhTtC0iTxY7hMzWA)
 - [The Data Stack Show](https://open.spotify.com/show/1De2RWFAjAsSDf9oKgxeHd?si=986289e771b845fc)
 
