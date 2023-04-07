@@ -16,6 +16,7 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 - [TWIML AI](https://twimlai.com/)
 - [Data Futurology](https://www.datafuturology.com/) — leadership and strategy
 - [Datacast](https://datacast.simplecast.com/)  — career journeys
+- [Deep Papers](https://arize.com/resource-hub/?format=495#)
 - [Adventures in Machine Learning](https://devchat.tv/podcasts/adventures-in-machine-learning/)
 - [Build a Career in Data Science](https://podcast.bestbook.cool/)
 - [SuperDataScience](https://www.superdatascience.com/podcast)
