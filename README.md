@@ -178,6 +178,10 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 
 - [ParrotCast](https://parrotcast.link/)
 
+## Podcasts in French
+
+- [BigData Hebdo](https://www.bigdatahebdo.com/)
+
 # License
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
