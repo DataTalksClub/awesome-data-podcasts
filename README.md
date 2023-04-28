@@ -87,7 +87,8 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 - [Plumbers of Data Science](https://open.spotify.com/show/529Q58D0db7bI8p6NKaRjU?si=rj5T4SzhTtC0iTxY7hMzWA)
 - [The Data Stack Show](https://open.spotify.com/show/1De2RWFAjAsSDf9oKgxeHd?si=986289e771b845fc)
 - [Weaviate vector search podcast](https://weaviate.io/podcast.html)
-
+- [Monday Morning Data Chat](https://podcasters.spotify.com/pod/show/ternary-data)
+- [The Joe Reis Show](https://open.spotify.com/show/3mcKitYGS4VMG2eHd2PfDN)
 
 ## Career in IT 
 
