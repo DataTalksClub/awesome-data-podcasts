@@ -55,6 +55,7 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 - [Deep in Data](https://open.spotify.com/show/3BswRZKxYM9KqjH3nShegE) - stories from the industry
 - [DataFramed](https://open.spotify.com/show/02yJXEJAJiQ0Vm2AO9Xj6X?si=6282f1aded994288)
 - [MLOPs Weekly](https://open.spotify.com/show/0RZiV4zf2GKu1rp1rtNPRZ) - MLOps but with an eye on data & featurization
+- [Dataframed - DataCamp Podcast](https://www.datacamp.com/community/podcast)
 
 ## Data Analysis
 
@@ -120,7 +121,6 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 
 ## Not active (discontinued)
 
-- [DataCamp Podcast](https://www.datacamp.com/community/podcast)
 - [Talking Machines](http://www.thetalkingmachines.com/)
 - [Linear Digressions](https://soundcloud.com/linear-digressions)
 - [O'Reilly Data Show Podcast](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/)
