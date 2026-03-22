@@ -108,6 +108,7 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 - [Lex Fridman Podcast](https://lexfridman.com/podcast/)
 - [Engineered-Mind Podcast](https://anchor.fm/jousef-murad)
 - [Are You A Robot?](https://www.areyouarobot.co.uk/) — ethics in tech
+- [Chain of Thought](https://www.chainofthought.dev/) — AI infrastructure, developer tools, and tech leadership
 
 
 
