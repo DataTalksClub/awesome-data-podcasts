@@ -101,6 +101,7 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 - [Software Engineering Daily](https://softwareengineeringdaily.com/)
 - [Software Engineering Unlocked](https://www.software-engineering-unlocked.com/)
 - [Software Daily](https://www.softwaredaily.com/)
+- [The Pragmatic Engineer](https://podcasts.apple.com/us/podcast/the-pragmatic-engineer/id1769051199) — software engineering insights from Gergely Orosz
 
 
 ## Engineering, AI, Tech and others IT-related topics
@@ -109,6 +110,8 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 - [Engineered-Mind Podcast](https://anchor.fm/jousef-murad)
 - [Are You A Robot?](https://www.areyouarobot.co.uk/) — ethics in tech
 - [Chain of Thought](https://chainofthought.show/) — AI infrastructure, developer tools, and tech leadership
+- [How I AI](https://pod.link/how-i-ai) — leaders share how they actually use AI
+- [Latent Space](https://www.latent.space/podcast) — AI engineering deep dives
 
 
 
@@ -118,6 +121,7 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 - [CommunityOps](https://www.listennotes.com/podcasts/communityops-anna-grigoryan-FAB8r0y3DHL/) — community building
 - [Freakonomics](https://freakonomics.com/) — econimics
 - [Data Talk by Bright Data](https://datatalk.castos.com/) — web data collection
+- [Hard Fork](https://www.nytimes.com/column/hard-fork) — tech and AI from the New York Times
 
 ## Not active (discontinued)
 
