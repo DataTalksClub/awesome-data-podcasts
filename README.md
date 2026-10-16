@@ -26,7 +26,7 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 - [Data Skeptic](https://dataskeptic.libsyn.com/)
 - [Data Stories](https://datastori.es/archive/) — data visualization
 - [AI in Business](https://techemergence.libsyn.com/)
-- [Women in Data Science](https://www.widsconference.org/podcast.html)
+- [Women in Data Science](https://www.widsworldwide.org/get-inspired/podcasts/)
 - [Data Science Salon Podcast](https://data-science-salon-podcast.simplecast.com/)
 - [The Digital Analytics Power Hour](https://www.analyticshour.io/)
 - [Data Science at Home](https://datascienceathome.com/)
@@ -46,7 +46,7 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 - [Radical AI](https://www.radicalai.org/)
 - [Human-Centered AI Podcast](https://www.listennotes.com/podcasts/the-human-centered-ai-podcast-deus-2NPZbMzjpBE/)
 - [The Data Exchange](https://thedataexchange.media/)
-- [More or Less: Behind the Stats](https://www.bbc.co.uk/programmes/p02nrss1/episodes/downloads)
+- [More or Less: Behind the Stats](https://www.bbc.co.uk/programmes/b006qshd/episodes/downloads)
 - [The Data Crunch](https://datacrunchcorp.com/podcast/)
 - [The Ravit Show](https://youtube.com/channel/UC4yopSSlBfw2WAykLPTYH-w)
 - [Psyda Podcast With Minhaaj](https://psyda.co/podcast)
@@ -75,7 +75,7 @@ This list started from a discussion in DataTalks.Club. Want to talk about data? 
 - [Python Bytes](https://pythonbytes.fm/)
 - [`Podcast.__init__`](https://www.pythonpodcast.com/)
 - [Real Python](https://realpython.com/podcasts/rpp/)  
-- [Test & Code: Python Testing](https://testandcode.com/)
+- [Test & Code: Python Testing](https://pythontest.com/testandcode/)
 - [Django Riffs](https://open.spotify.com/show/1RtdveQIz5m5MqLKPWbhnD?si=046c213b24a544b6)
 
 
